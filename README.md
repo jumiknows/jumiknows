@@ -1,4 +1,3 @@
-<br>
 <div align="center">
 <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1040798/screenshots/15685874/background3.gif" />
 <br>
