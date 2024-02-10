@@ -3,34 +3,31 @@ name: README build
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Setup Node
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: setup node
         uses: actions/setup-node@v1
         with:
-          node-version: '12'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
+          node-version: '13.x'
+      - name: cache
         uses: actions/cache@v1
         with:
           path: node_modules
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
-      - name: Fix Mustache installs
-        run: npm install fixed mustache
-      - name: double check mustache
-        run: npm i mustache
-      - name: find ls
-        run: ls
       - name: Generate README file
         run: node index.js
-      - name: Commit and Push new README.md to the repository
+      - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
