@@ -11,19 +11,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # - name: Setup Node
-      #   uses: actions/setup-node@v1
-      #   with:
-      #     node-version: '13.x'
-      # - name: Cache dependencies and build outputs to improve workflow execution time.
-      #   uses: actions/cache@v1
-      #   with:
-      #     path: node_modules
-      #     key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      - name: Cache dependencies and build outputs to improve workflow execution time.
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
-      # - name: Fix Mustache installs
-      #   run: npm install fixed mustache
+      - name: Fix Mustache installs
+        run: npm install fixed mustache
       - name: double check mustache
         run: npm i mustache
       - name: Generate README file
