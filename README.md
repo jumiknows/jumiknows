@@ -11,10 +11,11 @@
 <a href="https://www.buymeacoffee.com/jumiknows" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
 <br>
----
+<br>
 <p align="center">
 This ReadMe is refreshed automatically! <br>
 Last refresh: Saturday, 10 February, 11:28 CET
 </p>
 </div>
+
 
