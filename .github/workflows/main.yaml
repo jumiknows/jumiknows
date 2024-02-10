@@ -26,6 +26,8 @@ jobs:
         run: npm install fixed mustache
       - name: double check mustache
         run: npm i mustache
+      - name: find ls
+        run: ls
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
