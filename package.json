@@ -10,14 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/jumiknows/jumiknows.git"
   },
-  "author": "",
+  "author": "jumiknows",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jumiknows/jumiknows/issues"
   },
   "homepage": "https://github.com/jumiknows/jumiknows#readme",
   "dependencies": {
-    "fixed": "^0.3.1",
-    "mustache": "^4.2.0"
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.1"
   }
 }
