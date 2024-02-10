@@ -1,5 +1,7 @@
-<img align="right" src="https://namespace.so/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbanner.8d964a24.png&w=3840&q=75">
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/302457af-3536-48e0-a55a-0c161f079e36/deapxvb-a7f13486-6ae7-4bcc-87fc-3bd73d670813.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMwMjQ1N2FmLTM1MzYtNDhlMC1hNTVhLTBjMTYxZjA3OWUzNlwvZGVhcHh2Yi1hN2YxMzQ4Ni02YWU3LTRiY2MtODdmYy0zYmQ3M2Q2NzA4MTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vXpO-_QUlM6NB18Gh7jD6AruhyYZC8FnBKpnqTLlzQ0)
+
+
 
 <br>
 <h3 align="center">Exploring the ways of Git</h3>
-
+<br>
