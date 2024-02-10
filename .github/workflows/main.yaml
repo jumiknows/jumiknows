@@ -24,6 +24,7 @@ jobs:
         run: npm install
       - name: Fix Mustache installs
         run: npm install fixed mustache
+      - name: double check mustache
         run: npm i mustache
       - name: Generate README file
         run: node index.js
