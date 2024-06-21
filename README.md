@@ -12,7 +12,7 @@
 <br>
 <br>
 <p align="center">
-Last refresh: Thursday, 20 June, 17:28 GMT-7
+Last refresh: Thursday, 20 June, 20:06 GMT-7
 </p>
 </div>
 
