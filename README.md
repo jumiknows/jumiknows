@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1040798/screenshots/15685874/background3.gif" />
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/userupload/19819185/file/original-f2b82941621c710352274a3397d4fb17.gif" />
 <br>
 <br>
 <h3 align="center">Exploring the ways of Git</h3>
