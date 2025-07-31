@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" alt="GIF" src="https://cdn.dribbble.com/userupload/22852873/file/original-e3bdcb22dddb4f0ff623359c001a0ebe.gif" />
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1040798/screenshots/15685874/background3.gif" />
 <br>
 <br>
 <h3 align="center">Exploring the ways of Git</h3>
@@ -12,7 +12,7 @@
 <br>
 <br>
 <p align="center">
-Last refresh: Thursday, 31 July, 15:58 GMT-7
+Last refresh: Thursday, 31 July, 16:08 GMT-7
 </p>
 </div>
 
