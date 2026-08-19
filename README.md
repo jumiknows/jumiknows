@@ -1,5 +1,8 @@
 <div align="center">
-<img align="center" alt="GIF" src="jumiknows.gif" />
+<a href="https://jumiknows.github.io/portfolio/">
+    <img align="center" alt="GIF" src="jumiknows.gif" />
+</a>
+
 <br>
 <br>
 <h3 align="center">Exploring the ways of Git</h3>
@@ -12,7 +15,7 @@
 <br>
 <br>
 <p align="center">
-Last refresh: Wednesday, 19 August, 05:16 GMT-7
+Last refresh: Wednesday, 19 August, 06:13 GMT-7
 </p>
 </div>
 
